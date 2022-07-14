@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneWithTheInternet
-- 👀 I’m interested in fine & animation arts
-- 🌱 I’m currently learning web developement at Open Classrooms (HTML/CSS, .scss, JS, React, API)
+- 👀 I’m interested in fine arts & animation arts
+- 🌱 I’m currently learning web developement at Open Classrooms (HTML/CSS, .scss, JS, NodeJS, React)
 - 💞️ I’m looking to create my own web apps/tools for creative people
 - 📫 Reach me at my inbox
 
