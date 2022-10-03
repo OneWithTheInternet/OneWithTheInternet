@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OneWithTheInternet
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning web developement at Open Classrooms (HTML/CSS, Sass, JS, NodeJS, React)
-- 💞️ I’m looking to create my own web apps/tools for creative people
+- 💞️ I’m looking foward to build web apps for creative people
 - 📫 Reach me at my inbox
 
 <!---
