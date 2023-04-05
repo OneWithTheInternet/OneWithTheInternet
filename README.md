@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OneWithTheInternet
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning web developement at Open Classrooms (HTML/CSS, Sass, JS, NodeJS, React)
-- 💞️ I’m looking foward to build web apps for creative people
+- 👀 I’m like in front end web development
+- 🌱 I’m currently the guy behind Gmology.com and open to other work opportunities
+- 💞️ I’m looking foward to keep building amazing and fun web apps
 - 📫 Reach out to me at my inbox
 
 <!---
