@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 1WithDaInternet
-- 👀 I like front end web development
+- 👀 I am a web developer
 - 🌱 I’m the guy behind Gmology.com and open to more work opportunities
 - 💞️ I’m looking foward to keep building amazing and fun web apps
 - 📫 Reach out to me at my inbox
