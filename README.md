@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1WithDaInternet
+- 👋 Hi, I’m 1WithDaInternet
 - 👀 I like front end web development
 - 🌱 I’m the guy behind Gmology.com and open to more work opportunities
 - 💞️ I’m looking foward to keep building amazing and fun web apps
